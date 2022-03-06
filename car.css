@@ -1,1 +1,32 @@
 
+.upper-section{
+	width:1280px;
+}
+
+img{
+	
+	width:100px;
+	height:100px;
+	//border:2px solid black;
+}
+
+
+
+.section{
+//border:2px solid red;
+background-color:lightblue;
+float:left;
+width:200px;
+}
+.section{
+//border:2px solid green;
+background-color:lightgreen;
+float:left;
+width:1360px;
+}
+
+.section_one{//border:2px solid red;float:right}
+
+.section_two{float:right}
+.section_three{float:left}
+
